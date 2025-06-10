@@ -10,4 +10,6 @@ Generator structure diagram based on Unet:
 ![图片描述](https://github.com/WitherC/Color_Image_High-Capacity_Differential_Steganography_Algorithm/blob/main/Image/fig2.png)
 
 Execution algorithm table of the proposed scheme:
-![图片描述](https://github.com/WitherC/Color_Image_High-Capacity_Differential_Steganography_Algorithm/blob/main/Image/Algorithm2.png)
+<div align=center>
+<img src="(https://github.com/WitherC/Color_Image_High-Capacity_Differential_Steganography_Algorithm/blob/main/Image/Algorithm2.png" width="180" height="105"> width="180" height="105"/>
+</div>
