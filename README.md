@@ -1,3 +1,4 @@
 # Color_Image_High-Capacity_Differential_Steganography_Algorithm
 IEEE TCSVT: Color_Image_High-Capacity_Differential_Steganography_Algorithm_Based_on_Multiple_Adversarial_Networks
+
 Paper URL: https://ieeexplore.ieee.org/document/10771741
