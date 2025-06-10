@@ -11,5 +11,5 @@ Generator structure diagram based on Unet:
 
 Execution algorithm table of the proposed scheme:
 <div align=center>
-<img src="https://github.com/WitherC/Color_Image_High-Capacity_Differential_Steganography_Algorithm/blob/main/Image/Algorithm2.png" width="180" height="105"> width="180" height="105"/>
+<img src="https://github.com/WitherC/Color_Image_High-Capacity_Differential_Steganography_Algorithm/blob/main/Image/Algorithm2.png"> width="50%" height="50%"/>
 </div>
